@@ -3,6 +3,7 @@ import numpy as np
 import plotly.graph_objs as go
 import pandas as pd
 
+st.title("Suspension App")
 # Constants and Variables (initial values)
 Track_Width = 1.168
 Wheel_Base = 1.72
